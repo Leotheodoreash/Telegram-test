@@ -1,0 +1,14 @@
+database/
+__pycache__/
+*.pyc
+*.so
+.Python
+env/
+venv/
+.vscode/
+.idea/
+*.swp
+.DS_Store
+Thumbs.db
+.env
+*.log
